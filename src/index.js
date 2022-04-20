@@ -14,7 +14,7 @@ let obj = {
 ReactDOM.render(
   <React.StrictMode>
    {/* <Estudiante estudiante = {obj}/> */}
-   <Cursos/>
+   <FormEstudiante/>
   </React.StrictMode>,
   document.getElementById('root')
 );
